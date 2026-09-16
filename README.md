@@ -63,18 +63,19 @@ Choose an option: 1
 Choose an option:
 
 ## 👨‍💻 Author
-
+```
 Chilukuri Durga Prasad
 B.Tech: Computer Science & Engineering
+```
 
 ## Interested in:
-
+```
 Software Development
 Java
 Data Structures & Algorithms
 Web Development
 Building practical software projects
-
+```
 ## ⭐ Support
 
 If you found this project useful or interesting, consider giving the repository a ⭐ Star on GitHub.
