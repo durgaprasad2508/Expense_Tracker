@@ -24,14 +24,14 @@ A simple Java-based Expense Tracker application using Object-Oriented Programmin
 - Exception Handling
 
 ## 📂 Project Structure
-
+```
 ExpenseTracker/
 │
 ├── Expense.java          → Stores expense details
 ├── FileManager.java      → Handles file reading and writing
 ├── ExpenseTracker.java   → Main file that runs the Expense Tracker
 └── README.md             → Project description and instructions
-
+```
 
 ## How to Run
 
